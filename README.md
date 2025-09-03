@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on a Pomodoro App<br>🎓Studied at University of Auckland BCIS<br>🌱 I’m currently learning game development<br>⚡ Fun fact: As a kid I wanted to work on Pokémon games for Nintendo.
+🔭 I’m currently working on a small game for a friend's birthday!<br>🎓Studied at University of Auckland BCIS<br>🌱 I’m currently learning game development<br>⚡ Fun fact: As a kid I wanted to work on Pokémon games for Nintendo.
 
 
 ## 🌐 Socials:
