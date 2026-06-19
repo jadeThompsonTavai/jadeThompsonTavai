@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on a static website!<br>🎓Studied at University of Auckland BCIS<br>🌱 I’m currently learning back end development<br>⚡ Fun fact: As a kid I wanted to work on Pokémon games for Nintendo.
+🔭 I’m currently working on a static website!<br>🎓Studied at Auckland University of Technology BCIS<br>🌱 I’m currently learning back end development<br>⚡ Fun fact: As a kid I wanted to work on Pokémon games for Nintendo.
 
 
 ## 🌐 Socials:
